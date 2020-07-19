@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="label_ignore">Ignore</string>
+</resources>
